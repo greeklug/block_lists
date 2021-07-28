@@ -1,4 +1,4 @@
-# Creative Commons Attribution-ShareAlike 4.0 International Public License
+# Creative Commons Attribution Share Alike 4.0 International
 
 ========================================================================
 
