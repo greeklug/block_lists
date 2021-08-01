@@ -1,0 +1,328 @@
+########################################################################
+# Title: GreekLUG block_lists | Gambling
+# Version: 2021.07.25
+# Website: https://www.greeklug.gr/el/activities/projects/451-block-lists
+# Repository: https://github.com/greeklug/block_lists
+# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+#
+#######
+# (EN) DESCRIPTION: The list contains Greek based domains related to gambling, such as betting, casino, slots, etc.
+# (EL) ΠΕΡΙΓΡΑΦΗ: Η λίστα περιέχει ελληνόφωνους τομείς που σχετίζονται με τζόγο, όπως στοίχημα, καζίνο, τυχερά παιχνίδια κ.α..
+#######
+#
+########################################################################
+
+# [agones.gr]
+0.0.0.0 agones.gr
+0.0.0.0 www.agones.gr
+
+# [bet.gr]
+0.0.0.0 bet.gr
+0.0.0.0 www.bet.gr
+
+# [beatcasino.gr]
+0.0.0.0 beatcasino.gr
+0.0.0.0 www.beatcasino.gr
+
+# [betarades.gr]
+0.0.0.0 betarades.gr
+0.0.0.0 www.betarades.gr
+
+# [bethome.gr]
+0.0.0.0 bethome.gr
+0.0.0.0 www.bethome.gr
+
+# [bet-hoven.net]
+0.0.0.0 bet-hoven.net
+0.0.0.0 www.bet-hoven.net
+
+# [betmarket.gr]
+0.0.0.0 betmarket.gr
+0.0.0.0 www.betmarket.gr
+
+# [betrebels.gr]
+0.0.0.0 betrebels.gr
+0.0.0.0 www.betrebels.gr
+
+# [betshop.gr]
+0.0.0.0 betshop.gr
+0.0.0.0 www.betshop.gr
+
+# [bonus-eggrafis.gr]
+0.0.0.0 bonus-eggrafis.gr
+0.0.0.0 www.bonus-eggrafis.gr
+
+# [bwin.gr]
+0.0.0.0 bwin.gr
+0.0.0.0 www.bwin.gr
+0.0.0.0 casino.bwin.gr
+0.0.0.0 www.casino.bwin.gr
+0.0.0.0 poker.bwin.gr
+0.0.0.0 www.poker.bwin.gr
+0.0.0.0 promo.bwin.gr
+0.0.0.0 www.promo.bwin.gr
+0.0.0.0 sports.bwin.gr
+0.0.0.0 www.sports.bwin.gr
+
+# [casino.gr]
+0.0.0.0 casino.gr
+0.0.0.0 www.casino.gr
+
+# [casinocorfu.gr]
+0.0.0.0 casinocorfu.gr
+0.0.0.0 www.casinocorfu.gr
+
+# [casinogames.gr]
+0.0.0.0 casinogames.gr
+0.0.0.0 www.casinogames.gr
+
+# [casinogreece.gr]
+0.0.0.0 casinogreece.gr
+0.0.0.0 www.casinogreece.gr
+
+# [casinohouse.gr]
+0.0.0.0 casinohouse.gr
+0.0.0.0 www.casinohouse.gr
+
+# [casinorio.gr]
+0.0.0.0 casinorio.gr
+0.0.0.0 www.casinorio.gr
+
+# [casinorodos.gr]
+0.0.0.0 casinorodos.gr
+0.0.0.0 www.casinorodos.gr
+
+# [casinosyros.gr]
+0.0.0.0 casinosyros.gr
+0.0.0.0 www.casinosyros.gr
+
+# [casinoslot.gr]
+0.0.0.0 casinoslot.gr
+0.0.0.0 www.casinoslot.gr
+
+# [casinothraki.gr]
+0.0.0.0 casinothraki.gr
+0.0.0.0 www.casinothraki.gr
+
+# [casinoweb.gr]
+0.0.0.0 casinoweb.gr
+0.0.0.0 www.casinoweb.gr
+
+# [casinowinners.gr]
+0.0.0.0 casinowinners.gr
+0.0.0.0 www.casinowinners.gr
+
+# [clubhotelloutraki.gr]
+0.0.0.0 clubhotelloutraki.gr
+0.0.0.0 www.clubhotelloutraki.gr
+
+# [footballbet.gr]
+0.0.0.0 footballbet.gr
+0.0.0.0 www.footballbet.gr
+
+# [foxbet.gr]
+0.0.0.0 foxbet.gr
+0.0.0.0 www.foxbet.gr
+
+# [foxcasino.gr]
+0.0.0.0 foxcasino.gr
+0.0.0.0 www.foxcasino.gr
+
+# [froutakiaonline.gr]
+0.0.0.0 froutakiaonline.gr
+0.0.0.0 www.froutakiaonline.gr
+
+# [froytakia.gr]
+0.0.0.0 froytakia.gr
+0.0.0.0 www.froytakia.gr
+
+# [froytakia777.gr]
+0.0.0.0 froytakia777.gr
+0.0.0.0 www.froytakia777.gr
+
+# [interwetten.gr]
+0.0.0.0 interwetten.gr
+0.0.0.0 www.interwetten.gr
+
+# [kazinopro.gr]
+0.0.0.0 kazinopro.gr
+0.0.0.0 www.kazinopro.gr
+
+# [kazinopaixnidia24.gr]
+0.0.0.0 kazinopaixnidia24.gr
+0.0.0.0 www.kazinopaixnidia24.gr
+
+# [kazinos.com]
+0.0.0.0 kazinos.com
+0.0.0.0 www.kazinos.com
+
+# [kingbet.net]
+0.0.0.0 kingbet.net
+0.0.0.0 www.kingbet.net
+
+# [kingsolomons.gr]
+0.0.0.0 kingsolomons.gr
+0.0.0.0 www.kingsolomons.gr
+0.0.0.0 casino.kingsolomons.gr
+0.0.0.0 www.casino.kingsolomons.gr
+
+# [kouponi.gr]
+0.0.0.0 kouponi.gr
+0.0.0.0 www.kouponi.gr
+
+# [lasvegas.gr]
+0.0.0.0 lasvegas.gr
+0.0.0.0 www.lasvegas.gr
+
+# [liveagones.gr]
+0.0.0.0 liveagones.gr
+0.0.0.0 www.liveagones.gr
+
+# [netbet.gr]
+0.0.0.0 netbet.gr
+0.0.0.0 www.netbet.gr
+0.0.0.0 casino.netbet.gr
+0.0.0.0 www.casino.netbet.gr
+0.0.0.0 live.netbet.gr
+0.0.0.0 www.live.netbet.gr
+0.0.0.0 poker.netbet.gr
+0.0.0.0 www.poker.netbet.gr
+0.0.0.0 sport.netbet.gr
+0.0.0.0 www.sport.netbet.gr
+0.0.0.0 vegas.netbet.gr
+0.0.0.0 www.vegas.netbet.gr
+
+# [nomimacasino.gr]
+0.0.0.0 nomimacasino.gr
+0.0.0.0 www.nomimacasino.gr
+
+# [novibet.gr]
+0.0.0.0 novibet.gr
+0.0.0.0 www.novibet.gr
+0.0.0.0 pro.novibet.gr
+0.0.0.0 www.pro.novibet.gr
+
+# [online-casino.gr]
+0.0.0.0 online-casino.gr
+0.0.0.0 www.online-casino.gr
+
+# [onlinecasinorank.gr]
+0.0.0.0 onlinecasinorank.gr
+0.0.0.0 www.onlinecasinorank.gr
+
+# [onlinestoixima.gr]
+0.0.0.0 onlinestoixima.gr
+0.0.0.0 www.onlinestoixima.gr
+
+# [opap.gr]
+0.0.0.0 opap.gr
+0.0.0.0 www.opap.gr
+0.0.0.0 news.opap.gr
+0.0.0.0 www.news.opap.gr
+0.0.0.0 pamestoixima.opap.gr
+0.0.0.0 www.pamestoixima.opap.gr
+0.0.0.0 tzoker.opap.gr
+0.0.0.0 www.tzoker.opap.gr
+
+# [pamestoixima.gr]
+0.0.0.0 pamestoixima.gr
+0.0.0.0 www.pamestoixima.gr
+0.0.0.0 www2.pamestoixima.gr
+
+# [pokerstarscasino.gr]
+0.0.0.0 pokerstarscasino.gr
+0.0.0.0 www.pokerstarscasino.gr
+
+# [pokerstarssports.gr]
+0.0.0.0 pokerstarssports.gr
+0.0.0.0 www.pokerstarssports.gr
+
+# [portocarras.com]
+0.0.0.0 portocarras.com
+0.0.0.0 www.portocarras.com
+
+# [regencycasinos.gr]
+0.0.0.0 regencycasinos.gr
+0.0.0.0 www.regencycasinos.gr
+0.0.0.0 athens.regencycasinos.gr
+0.0.0.0 www.athens.regencycasinos.gr
+0.0.0.0 thessaloniki.regencycasinos.gr
+0.0.0.0 www.thessaloniki.regencycasinos.gr
+
+# [sentragoal.gr]
+0.0.0.0 sentragoal.gr
+0.0.0.0 www.sentragoal.gr
+
+# [slot.gr]
+0.0.0.0 slot.gr
+0.0.0.0 www.slot.gr
+
+# [sportbet.gr]
+0.0.0.0 sportbet.gr
+0.0.0.0 www.sportbet.gr
+
+# [sportingbet.gr]
+0.0.0.0 sportingbet.gr
+0.0.0.0 www.sportingbet.gr
+0.0.0.0 casino.sportingbet.gr
+0.0.0.0 www.casino.sportingbet.gr
+0.0.0.0 poker.sportingbet.gr
+0.0.0.0 www.poker.sportingbet.gr
+0.0.0.0 sports.sportingbet.gr
+0.0.0.0 www.sports.sportingbet.gr
+
+# [stoixima.com.gr]
+0.0.0.0 stoixima.com.gr
+0.0.0.0 www.stoixima.com.gr
+
+# [stoiximan.gr]
+0.0.0.0 stoiximan.gr
+0.0.0.0 www.stoiximan.gr
+
+# [thelynxcasino.gr]
+0.0.0.0 thelynxcasino.gr
+0.0.0.0 www.thelynxcasino.gr
+
+# [tipbet.gr]
+0.0.0.0 tipbet.gr
+0.0.0.0 www.tipbet.gr
+
+# [tzoker.gr]
+0.0.0.0 tzoker.gr
+0.0.0.0 www.tzoker.gr
+
+# [tostoixima.gr]
+0.0.0.0 tostoixima.gr
+0.0.0.0 www.tostoixima.gr
+
+# [vistabet.gr]
+0.0.0.0 vistabet.gr
+0.0.0.0 www.vistabet.gr
+0.0.0.0 casino.vistabet.gr
+0.0.0.0 www.casino.vistabet.gr
+0.0.0.0 poker.vistabet.gr
+0.0.0.0 www.poker.vistabet.gr
+0.0.0.0 promo.vistabet.gr
+0.0.0.0 www.promo.vistabet.gr
+0.0.0.0 sports.vistabet.gr
+0.0.0.0 www.sports.vistabet.gr
+
+# [youbet.gr]
+0.0.0.0 youbet.gr
+0.0.0.0 www.youbet.gr
+
+# [winmasters.gr]
+0.0.0.0 winmasters.gr
+0.0.0.0 www.winmasters.gr
+
+######################
+# [Extra domains]
+# (EN): Non Greek based domains that contain Greek translation/section
+# (EL): Μη ελληνόφωνοι τομείς που περιέχουν ελληνική μεταφράση/τμήμα
+######################
+
+# [gr.casino.guru]
+0.0.0.0 gr.casino.guru
+0.0.0.0 www.gr.casino.guru
+
+########################################################################
