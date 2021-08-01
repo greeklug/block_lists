@@ -1,0 +1,117 @@
+########################################################################
+# Title: GreekLUG block_lists | Social
+# Version: 2021.07.25
+# Website: https://www.greeklug.gr/el/activities/projects/451-block-lists
+# Repository: https://github.com/greeklug/block_lists
+# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+#
+#######
+# (EN) DESCRIPTION: The list contains Greek based domains related to social sites, such as chatrooms and instant messaging.
+# (EL) ΠΕΡΙΓΡΑΦΗ: Η λίστα περιέχει ελληνόφωνους τομείς που σχετίζονται με κοινωνικές ιστοσελίδες, όπως σελίδες συνομιλιών/δωμάτια συνομιλίας.
+#######
+#
+########################################################################
+
+# [chat-room.gr]
+0.0.0.0 chat-room.gr
+0.0.0.0 www.chat-room.gr
+
+# [chat5.gr]
+0.0.0.0 chat5.gr
+0.0.0.0 www.chat5.gr
+
+# [chatnet.gr]
+0.0.0.0 chatnet.gr
+0.0.0.0 www.chatnet.gr
+
+# [chatup.gr]
+0.0.0.0 chatup.gr
+0.0.0.0 www.chatup.gr
+
+# [dod.gr]
+0.0.0.0 dod.gr
+0.0.0.0 www.dod.gr
+
+# [exodos-chat.gr]
+0.0.0.0 exodos-chat.gr
+0.0.0.0 www.exodos-chat.gr
+
+# [freelist.gr]
+0.0.0.0 chat.freelist.gr
+0.0.0.0 www.chat.freelist.gr
+
+# [grchat.gr]
+0.0.0.0 grchat.gr
+0.0.0.0 www.grchat.gr
+
+# [greek-chat.gr]
+0.0.0.0 greek-chat.gr
+0.0.0.0 www.greek-chat.gr
+
+# [greek-chat.eu]
+0.0.0.0 greek-chat.eu
+0.0.0.0 www.greek-chat.eu
+
+# [greek-chat.net]
+0.0.0.0 greek-chat.net
+0.0.0.0 www.greek-chat.net
+
+# [greek-chat.vip]
+0.0.0.0 greek-chat.vip
+0.0.0.0 www.greek-chat.vip
+
+# [greekchat.eu]
+0.0.0.0 greekchat.eu
+0.0.0.0 www.greekchat.eu
+
+# [greekchat.live]
+0.0.0.0 greekchat.live
+0.0.0.0 www.greekchat.live
+
+# [ircnet.gr]
+0.0.0.0 ircnet.gr
+0.0.0.0 www.ircnet.gr
+
+# [midnightchat.eu]
+0.0.0.0 midnightchat.eu
+0.0.0.0 www.midnightchat.eu
+
+# [milamou.info]
+0.0.0.0 milamou.info
+0.0.0.0 www.milamou.info
+
+# [mirc.gr]
+0.0.0.0 mirc.gr
+0.0.0.0 www.mirc.gr
+
+# [mortis.gr]
+0.0.0.0 mortis.gr
+0.0.0.0 www.mortis.gr
+
+# [newchat.gr]
+0.0.0.0 newchat.gr
+0.0.0.0 www.newchat.gr
+
+# [pame.gr]
+0.0.0.0 chat.pame.gr
+0.0.0.0 www.chat.pame.gr
+
+# [webchat.acn.gr]
+0.0.0.0 webchat.acn.gr
+0.0.0.0 www.webchat.acn.gr
+
+# [xat.gr]
+0.0.0.0 xat.gr
+0.0.0.0 www.xat.gr
+0.0.0.0 chatoparea.gr
+0.0.0.0 www.chatoparea.gr
+
+# [zoo.gr]
+0.0.0.0 zoo.gr
+0.0.0.0 www.zoo.gr
+
+# [zougla.gr]
+0.0.0.0 chat.zougla.gr
+0.0.0.0 www.chat.zougla.gr
+
+########################################################################
