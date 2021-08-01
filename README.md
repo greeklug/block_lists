@@ -12,3 +12,20 @@
 Χρήση σε Pi-hole:
 
     https://raw.githubusercontent.com/greeklug/block_lists/main/gambling
+
+
+### [#]Social
+```Η λίστα περιέχει ελληνόφωνους τομείς που σχετίζονται με κοινωνικές ιστοσελίδες, όπως σελίδες συνομιλιών/δωμάτια συνομιλίας.```
+
+Χρήση σε Pi-hole:
+
+    https://raw.githubusercontent.com/greeklug/block_lists/main/social
+
+
+### [*]Full (Dating+Gambling+Social)
+```Η λίστα περιέχει συγκεντρωτικά όλους τους τομείς που υπάρχουν στις εξειδικευμένες λίστες.```
+
+Χρήση σε Pi-hole:
+
+    https://raw.githubusercontent.com/greeklug/block_lists/main/full
+
