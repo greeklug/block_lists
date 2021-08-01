@@ -22,7 +22,7 @@
     https://raw.githubusercontent.com/greeklug/block_lists/main/social
 
 
-### [*]Full (Dating+Gambling+Social)
+### [*]Full (Gambling + Social)
 ```Η λίστα περιέχει συγκεντρωτικά όλους τους τομείς που υπάρχουν στις εξειδικευμένες λίστες.```
 
 Χρήση σε Pi-hole:
