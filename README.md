@@ -20,9 +20,17 @@
 Χρήση σε Pi-hole:
 
     https://raw.githubusercontent.com/greeklug/block_lists/main/social
+    
+    
+### [#]Dating
+```Η λίστα περιέχει ελληνόφωνους τομείς που σχετίζονται με ιστοσελίδες γνωριμιών, όπως σελίδες ραντεβού, συνοικέσια κ.α..```
+
+Χρήση σε Pi-hole:
+
+    https://raw.githubusercontent.com/greeklug/block_lists/main/dating
 
 
-### [*]Full (Gambling + Social)
+### [*]Full (Dating + Gambling + Social)
 ```Η λίστα περιέχει συγκεντρωτικά όλους τους τομείς που υπάρχουν στις εξειδικευμένες λίστες.```
 
 Χρήση σε Pi-hole:
