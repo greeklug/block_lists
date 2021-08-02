@@ -1,0 +1,287 @@
+########################################################################
+# Title: GreekLUG block_lists | Dating
+# Version: 2021.08.02
+# Website: https://www.greeklug.gr/el/activities/projects/451-block-lists
+# Repository: https://github.com/greeklug/block_lists
+# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+#
+#######
+# (EN) DESCRIPTION: The list contains Greek based domains related to dating sites.
+# (EL) ΠΕΡΙΓΡΑΦΗ: Η λίστα περιέχει ελληνόφωνους τομείς που σχετίζονται με ιστοσελίδες γνωριμιών, όπως σελίδες ραντεβού, συνοικέσια κ.α..
+#######
+#
+########################################################################
+
+# [anoixisdate.gr]
+0.0.0.0 anoixisdate.gr 
+0.0.0.0 www.anoixisdate.gr 
+
+# [armoniaclub.gr]
+0.0.0.0 armoniaclub.gr
+0.0.0.0 www.armoniaclub.gr
+
+# [blindchat.gr]
+0.0.0.0 blindchat.gr
+0.0.0.0 www.blindchat.gr
+
+# [boujee.gr]
+0.0.0.0 boujee.gr
+0.0.0.0 www.boujee.gr
+
+# [datingadvices.gr]
+0.0.0.0 datingadvices.gr
+0.0.0.0 www.datingadvices.gr
+
+# [diamantin.gr]
+0.0.0.0 diamantin.gr
+0.0.0.0 www.diamantin.gr
+0.0.0.0 diamantin.com
+0.0.0.0 www.diamantin.com
+
+# [dodalife.com]
+0.0.0.0 dodalife.com
+0.0.0.0 www.dodalife.com
+
+# [eligiblegreeks.com]
+0.0.0.0 eligiblegreeks.com
+0.0.0.0 www.eligiblegreeks.com
+
+# [elmaz.com]
+0.0.0.0 elmaz.com
+0.0.0.0 www.elmaz.com
+
+# [ermisclub.net]
+0.0.0.0 ermisclub.net
+0.0.0.0 www.ermisclub.net
+
+# [erosdate.gr]
+0.0.0.0 erosdate.gr
+0.0.0.0 www.erosdate.gr
+
+# [fallinlove.gr]
+0.0.0.0 fallinlove.gr
+0.0.0.0 www.fallinlove.gr
+
+# [filakia.gr]
+0.0.0.0 filakia.gr
+0.0.0.0 www.filakia.gr
+
+# [gnorimies.edu.gr]
+0.0.0.0 gnorimies.edu.gr
+0.0.0.0 www.gnorimies.edu.gr
+
+# [grafeiognorimion.gr]
+0.0.0.0 grafeiognorimion.gr
+0.0.0.0 www.grafeiognorimion.gr
+
+# [greek-date.de]
+0.0.0.0 greek-date.de
+0.0.0.0 www.greek-date.de
+
+# [happines.gr]
+0.0.0.0 happines.gr
+0.0.0.0 www.happines.gr
+
+# [hotchat.gr]
+0.0.0.0 hotchat.gr
+0.0.0.0 www.hotchat.gr
+
+# [ikryfisynevresitis-gr.com]
+0.0.0.0 ikryfisynevresitis-gr.com
+0.0.0.0 www.ikryfisynevresitis-gr.com
+
+# [kardies.gr]
+0.0.0.0 kardies.gr
+0.0.0.0 www.kardies.gr
+
+# [lesbian.gr]
+0.0.0.0 lesbian.gr
+0.0.0.0 www.lesbian.gr
+
+# [listakaftonsynevreseon-gr.com]
+0.0.0.0 listakaftonsynevreseon-gr.com
+0.0.0.0 www.listakaftonsynevreseon-gr.com
+
+# [marriage-dating.gr]
+0.0.0.0 marriage-dating.gr
+0.0.0.0 www.marriage-dating.gr
+
+# [oneplusone.gr]
+0.0.0.0 oneplusone.gr
+0.0.0.0 www.oneplusone.gr
+
+# [pappas.gr]
+0.0.0.0 pappas.gr
+0.0.0.0 www.pappas.gr
+0.0.0.0 g-papas.gr
+0.0.0.0 www.g-papas.gr
+
+# [perfectdate.gr]
+0.0.0.0 perfectdate.gr
+0.0.0.0 www.perfectdate.gr
+
+# [proximeety.gr]
+0.0.0.0 proximeety.gr
+0.0.0.0 www.proximeety.gr
+
+# [rantevou-gia-megalyterous-gr.com]
+0.0.0.0 rantevou-gia-megalyterous-gr.com
+0.0.0.0 www.rantevou-gia-megalyterous-gr.com
+
+# [roxani-dating.gr]
+0.0.0.0 roxani-dating.gr
+0.0.0.0 www.roxani-dating.gr
+
+# [singlesclub.gr]
+0.0.0.0 singlesclub.gr
+0.0.0.0 www.singlesclub.gr
+
+# [sxeseis.gr]
+0.0.0.0 sxeseis.gr
+0.0.0.0 www.sxeseis.gr
+
+# [sweetdate.gr]
+0.0.0.0 sweetdate.gr
+0.0.0.0 www.sweetdate.gr
+
+# [thanos-dating.gr]
+0.0.0.0 thanos-dating.gr
+0.0.0.0 www.thanos-dating.gr
+
+# [top-peristasiakes-gnorimies.gr]
+0.0.0.0 top-peristasiakes-gnorimies.gr
+0.0.0.0 www.top-peristasiakes-gnorimies.gr
+
+# [top5-istotopoignorimion-gr.com]
+0.0.0.0 top5-istotopoignorimion-gr.com
+0.0.0.0 www.top5-istotopoignorimion-gr.com
+
+# [top5peristasiakes-gnorimies.gr]
+0.0.0.0 top5peristasiakes-gnorimies.gr
+0.0.0.0 www.top5peristasiakes-gnorimies.gr
+
+# [top5site-gnorimion.gr]
+0.0.0.0 top5site-gnorimion.gr
+0.0.0.0 www.top5site-gnorimion.gr
+
+# [veraclub.gr]
+0.0.0.0 veraclub.gr
+0.0.0.0 www.veraclub.gr
+
+######################
+# [Extra domains]
+# (EN): Non Greek based domains that contain Greek translation/section
+# (EL): Μη ελληνόφωνοι τομείς που περιέχουν ελληνική μεταφράση/τμήμα
+######################
+
+# [bl.mydates.com]
+0.0.0.0 bl.mydates.com
+0.0.0.0 www.bl.mydates.com
+
+# [bl.iflirts.com]
+0.0.0.0 bl.iflirts.com
+0.0.0.0 www.bl.iflirts.com
+
+# [bl.whatsflirt.com]
+0.0.0.0 bl.whatsflirt.com
+0.0.0.0 www.bl.whatsflirt.com
+
+# [bride-ukrainian.com]
+0.0.0.0 bride-ukrainian.com
+0.0.0.0 www.bride-ukrainian.com
+
+# [cupidmedia.com]
+0.0.0.0 cupidmedia.com
+0.0.0.0 www.cupidmedia.com
+0.0.0.0 afrointroductions.com
+0.0.0.0 www.afrointroductions.com
+0.0.0.0 asiandating.com
+0.0.0.0 www.asiandating.com
+0.0.0.0 bbwcupid.com
+0.0.0.0 www.bbwcupid.com
+0.0.0.0 blackcupid.com
+0.0.0.0 www.blackcupid.com
+0.0.0.0 brazilcupid.com
+0.0.0.0 www.brazilcupid.com
+0.0.0.0 cambodiancupid.com
+0.0.0.0 www.cambodiancupid.com
+0.0.0.0 caribbeancupid.com
+0.0.0.0 www.caribbeancupid.com
+0.0.0.0 chinalovecupid.com
+0.0.0.0 www.chinalovecupid.com
+0.0.0.0 christiancupid.com
+0.0.0.0 www.christiancupid.com
+0.0.0.0 colombiancupid.com
+0.0.0.0 www.colombiancupid.com
+0.0.0.0 dominicancupid.com
+0.0.0.0 www.dominicancupid.com
+0.0.0.0 filipinocupid.com
+0.0.0.0 www.filipinocupid.com
+0.0.0.0 gaycupid.com
+0.0.0.0 www.gaycupid.com
+0.0.0.0 hongkongcupid.com
+0.0.0.0 www.hongkongcupid.com
+0.0.0.0 indiancupid.com
+0.0.0.0 www.indiancupid.com
+0.0.0.0 indonesiancupid.com
+0.0.0.0 www.indonesiancupid.com
+0.0.0.0 internationalcupid.com
+0.0.0.0 www.internationalcupid.com
+0.0.0.0 interracialcupid.com
+0.0.0.0 www.interracialcupid.com
+0.0.0.0 japancupid.com
+0.0.0.0 www.japancupid.com
+0.0.0.0 kenyancupid.com
+0.0.0.0 www.kenyancupid.com
+0.0.0.0 koreancupid.com
+0.0.0.0 www.koreancupid.com
+0.0.0.0 latinamericancupid.com
+0.0.0.0 www.latinamericancupid.com
+0.0.0.0 malaysiancupid.com
+0.0.0.0 www.malaysiancupid.com
+0.0.0.0 mexicancupid.com
+0.0.0.0 www.mexicancupid.com
+0.0.0.0 militarycupid.com
+0.0.0.0 www.militarycupid.com
+0.0.0.0 muslima.com
+0.0.0.0 www.muslima.com
+0.0.0.0 onlinedatingsafetytips.com
+0.0.0.0 www.onlinedatingsafetytips.com
+0.0.0.0 pinkcupid.com
+0.0.0.0 www.pinkcupid.com
+0.0.0.0 russiancupid.com
+0.0.0.0 www.russiancupid.com
+0.0.0.0 singaporelovelinks.com
+0.0.0.0 www.singaporelovelinks.com
+0.0.0.0 southafricancupid.com
+0.0.0.0 www.southafricancupid.com
+0.0.0.0 thaicupid.com
+0.0.0.0 www.thaicupid.com
+0.0.0.0 ukrainedate.com
+0.0.0.0 www.ukrainedate.com
+0.0.0.0 vietnamcupid.com
+0.0.0.0 www.vietnamcupid.com
+
+# [dailydatingreviews.com]
+0.0.0.0 dailydatingreviews.com
+0.0.0.0 www.dailydatingreviews.com
+
+# [gr.fdating.com]
+0.0.0.0 gr.fdating.com
+0.0.0.0 www.gr.fdating.com
+
+# [louisdating.com]
+0.0.0.0 louisdating.com
+0.0.0.0 www.louisdating.com
+
+# [victoriamilan.com]
+0.0.0.0 victoriamilan.com
+0.0.0.0 www.victoriamilan.com
+0.0.0.0 loverevenue.com
+0.0.0.0 www.loverevenue.com
+
+# [wefinallymet.com]
+0.0.0.0 wefinallymet.com
+0.0.0.0 www.wefinallymet.com
+
+########################################################################
