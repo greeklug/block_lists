@@ -6,6 +6,14 @@
 
 ## Λίστες
 
+### [#]Dating
+```Η λίστα περιέχει ελληνόφωνους τομείς που σχετίζονται με ιστοσελίδες γνωριμιών, όπως σελίδες ραντεβού, συνοικέσια κ.α..```
+
+Χρήση σε Pi-hole:
+
+    https://raw.githubusercontent.com/greeklug/block_lists/main/dating
+
+
 ### [#]Gambling
 ```Η λίστα περιέχει ελληνόφωνους τομείς που σχετίζονται με τζόγο, όπως στοίχημα, καζίνο, τυχερά παιχνίδια κ.α..```
 
@@ -20,14 +28,6 @@
 Χρήση σε Pi-hole:
 
     https://raw.githubusercontent.com/greeklug/block_lists/main/social
-    
-    
-### [#]Dating
-```Η λίστα περιέχει ελληνόφωνους τομείς που σχετίζονται με ιστοσελίδες γνωριμιών, όπως σελίδες ραντεβού, συνοικέσια κ.α..```
-
-Χρήση σε Pi-hole:
-
-    https://raw.githubusercontent.com/greeklug/block_lists/main/dating
 
 
 ### [*]Full (Dating + Gambling + Social)
