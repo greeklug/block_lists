@@ -168,6 +168,34 @@
 0.0.0.0 veraclub.gr
 0.0.0.0 www.veraclub.gr
 
+# [www.bourdela.com]
+0.0.0.0 www.bourdela.com
+0.0.0.0 bourdela.com
+
+# [tamilfakia.com]
+0.0.0.0 tamilfakia.com
+0.0.0.0 www.tamilfakia.com
+
+# [only-flirts.com]
+0.0.0.0 only-flirts.com
+0.0.0.0 www.only-flirts.com
+
+# [onlineamarties.com]
+0.0.0.0 onlineamarties.com
+0.0.0.0 www.onlineamarties.com
+
+# [apolytotairiasma.com]
+0.0.0.0 apolytotairiasma.com
+0.0.0.0 www.apolytotairiasma.com
+
+# [kavliares.com]
+0.0.0.0 kavliares.com
+0.0.0.0 www.kavliares.com
+
+# [snapdate.gr]
+0.0.0.0 snapdate.gr
+0.0.0.0 www.snapdate.gr
+
 ######################
 # [Extra domains]
 # (EN): Non Greek based domains that contain Greek translation/section
@@ -283,5 +311,22 @@
 # [wefinallymet.com]
 0.0.0.0 wefinallymet.com
 0.0.0.0 www.wefinallymet.com
+
+# [bl.mdates.com]
+0.0.0.0 bl.mdates.com
+0.0.0.0 www.bl.mdates
+0.0.0.0 mdates.com
+
+# [benaughty.com]
+0.0.0.0 benaughty.com
+0.0.0.0 www.benaughty.com
+
+# [onenightfriend.com]
+0.0.0.0 onenightfriend.com
+0.0.0.0 www.onenightfriend.com
+
+# [askme4date.com]
+0.0.0.0 askme4date.com
+0.0.0.0 www.askme4date.com
 
 ########################################################################
