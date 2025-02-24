@@ -1,0 +1,19 @@
+########################################################################
+# Title: GreekLUG block_lists | Various
+# Version: 2025.02.24
+# Website: https://www.greeklug.gr/el/activities/projects/451-block-lists
+# Repository: https://github.com/greeklug/block_lists
+# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+#
+#######
+# (EN) DESCRIPTION: The list contains Greek based domains related to various sites, such as analytics and statistics gathering.
+# (EL) ΠΕΡΙΓΡΑΦΗ: Η λίστα περιέχει ελληνόφωνους τομείς που σχετίζονται με διάφορες ιστοσελίδες, όπως σελίδες συγκέντρωσης στατιστικών.
+#######
+#
+########################################################################
+
+# [adman.gr]
+0.0.0.0 adman.gr
+0.0.0.0 www.adman.gr
+
+########################################################################
